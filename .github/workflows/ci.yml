@@ -46,3 +46,4 @@ jobs:
           CC: gcc
         run: |
           make checkpatches
+#runnow
